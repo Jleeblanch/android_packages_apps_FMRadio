@@ -29,4 +29,11 @@
     <color name="actionbar_overflow_title_disabled_color">#33000000</color>
     <!-- FM main page text color -->
     <color name="text_fm_color">#CFD8DC</color>
+    <!-- DU Exposed Colors -->
+    <color name="tint_color">#FF6b6b6b</color>
+    <color name="main_bottom_background">#ffffff</color>
+    <color name="main_bottom_text">#000000</color>
+    <color name="save_dialog_text">#000000</color>
+    <color name="snackbar_background">#ff323232</color>
+    <color name="snackbar_text">#ffffffff</color>
 </resources>
