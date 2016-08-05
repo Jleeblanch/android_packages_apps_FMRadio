@@ -35,7 +35,7 @@
             android:background="@drawable/favorite_circle_button"
             android:contentDescription="@string/more"
             android:src="@drawable/ic_menu_moreoverflow_mtrl_alpha"
-            android:tint="#FF6b6b6b" >
+            android:tint="@color/tint_color" >
         </ImageView>
 
         <View
